@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="ISO-8859-1" />
+  <title>★ HOT BRASIL ★ Garotas Sensuais - Vídeos Picantes</title>
+  <style>
+    body {
+      background: #000 url('') fixed;
+      color: #ffcc00;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.5;
+    }
+    
+    .container {
+      width: 800px;
+      margin: 0 auto;
+      border: 3px solid #ff3300;
+      background: rgba(0,0,0,0.8);
+    }
+    
+    .header {
+      background: linear-gradient(to bottom, #cc0000, #660000);
+      padding: 15px;
+      text-align: center;
+      border-bottom: 4px dotted #ff9900;
+    }
+    
+    h1 {
+      color: #fff;
+      font-size: 32px;
+      text-shadow: 2px 2px 4px #000;
+      margin: 0;
+    }
+    
+    .tagline {
+      color: #ffcc00;
+      font-style: italic;
+      margin: 5px 0 0;
+    }
+    
+    .nav {
+      background: #330000;
+      padding: 8px;
+      text-align: center;
+      font-weight: bold;
+    }
+    
+    .nav a {
+      color: #ffcc00;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+    
+    .content {
+      padding: 20px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+    }
+    
+    .thumbnail {
+      width: 240px;
+      margin-bottom: 20px;
+      border: 2px solid #ff6600;
+      background: #222;
+      padding: 5px;
+      text-align: center;
+      transition: transform 0.3s;
+    }
+    
+    .thumbnail:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 15px #ff0000;
+    }
+    
+    .thumbnail img {
+      width: 100%;
+      height: 160px;
+      object-fit: cover;
+      border: 1px solid #ffcc00;
+    }
+    
+    .thumbnail-title {
+      color: #ff9900;
+      font-weight: bold;
+      margin: 5px 0;
+      font-size: 14px;
+    }
+    
+    .thumbnail-desc {
+      color: #ccc;
+      font-size: 12px;
+    }
+    
+    .age-gate {
+      background: #000;
+      padding: 20px;
+      text-align: center;
+      margin: 20px auto;
+      width: 70%;
+      border: 2px dashed #ff0000;
+    }
+    
+    .main-thumbnail {
+      margin: 15px auto;
+      width: 400px;
+      border: 3px solid #ff00ff;
+      box-shadow: 0 0 20px #ff00ff;
+    }
+    
+    .footer {
+      background: #330000;
+      padding: 10px;
+      text-align: center;
+      font-size: 11px;
+      color: #999;
+    }
+    
+    .counter {
+      color: #ff0000;
+      font-weight: bold;
+    }
+    
+    .disclaimer {
+      font-size: 10px;
+      color: #666;
+      margin-top: 20px;
+    }
+    
+    .play-icon {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: white;
+      font-size: 40px;
+      text-shadow: 0 0 10px #000;
+    }
+    
+    .thumbnail-container {
+      position: relative;
+      display: inline-block;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>★ HOT BRASIL ★</h1>
+      <p class="tagline">As garotas mais sensuais da internet brasileira!</p>
+    </div>
+    
+    <div class="nav">
+      <a href="#">Home</a> | 
+      <a href="#">Fotos</a> | 
+      <a href="#">Vídeos</a> | 
+      <a href="#">Webcams</a> | 
+      <a href="#">Contato</a>
+    </div>
+    
+    <div class="age-gate">
+      <h2>VOCÊ É MAIOR DE 18 ANOS?</h2>
+      <p>Confirme sua idade para acessar nosso conteúdo exclusivo:</p>
+      
+      <div class="thumbnail-container">
+        <img src="https://ic-vt-nss.xhcdn.com/a/NzFhY2MxYzgxYjdkMzM2NzFhMjc5MDJiOGI3NzRlNDg/s(w:1280,h:720),webp/010/677/051/1280x720.5.jpg" alt="Vídeo principal" class="main-thumbnail">
+        <div class="play-icon">▶</div>
+      </div>
+      
+      <p>
+        <a href="troll.php" style="color:#00ff00; font-weight:bold; font-size:18px;">SIM, QUERO VER ESTE VÍDEO!</a> 
+        <br><br>
+        <a href="http://www.google.com" style="color:#ff0000;">NÃO, TENHO MENOS DE 18</a>
+      </p>
+    </div>
+    
+    <div class="content">
+      <div class="thumbnail">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw4RL-mAmRAVRpgjKTLTVfTDk0Z9OePVPxnQ&s" alt="Loira sensual">
+        <div class="thumbnail-title">Tirando a roupa no banheiro do clube aquatico</div>
+        <div class="thumbnail-desc">Em breve</div>
+      </div>
+      
+      <div class="thumbnail">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk6hp6yCnA26xFkw_QYbttI6GoLNfE1WHbrw&s" alt="Morena sensual">
+        <div class="thumbnail-title">Novinha do Zap viralizou na net</div>
+        <div class="thumbnail-desc">Em breve</div>
+      </div>
+      
+      <div class="thumbnail">
+        <img src="https://www.sonovinhasbr.com/wp-content/uploads/2017/03/ninfetinha-linda-magrinha-tirando-a-roupa.jpg" alt="Vídeo caseiro">
+        <div class="thumbnail-title">Ninfetinha linda magrinha tirando a roupa no quarto ficou peladinha</div>
+        <div class="thumbnail-desc">Em breve</div>
+      </div>
+    </div>
+    
+    <div class="footer">
+      <p>© 2003-2005 HOT BRASIL - Todos os direitos reservados</p>
+      <p>Visitantes online: <span class="counter">12.487</span> | Última atualização: <span class="counter">10 minutos atrás</span></p>
+      <p class="disclaimer">Todos os modelos são maiores de 18 anos. Este site é apenas para adultos.</p>
+    </div>
+  </div>
+</body>
+</html>
